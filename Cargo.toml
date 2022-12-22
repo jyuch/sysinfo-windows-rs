@@ -1,0 +1,8 @@
+[package]
+name = "sysinfo-windows-rs"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+sysinfo = { git = "https://github.com/jyuch/sysinfo.git", rev = "7a94d4618e6a67767f7fd881a912fed1c4b09a79" }
+# sysinfo = "0.27"
