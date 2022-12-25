@@ -149,7 +149,7 @@ checksum = "d29ab0c6d3fc0ee92fe66e2d99f700eab17a8d57d1c1d3b748380fb20baa78cd"
 [[package]]
 name = "sysinfo"
 version = "0.27.1"
-source = "git+https://github.com/jyuch/sysinfo.git?rev=7a94d4618e6a67767f7fd881a912fed1c4b09a79#7a94d4618e6a67767f7fd881a912fed1c4b09a79"
+source = "git+https://github.com/jyuch/sysinfo.git?rev=70f27afa1c6dda3d993371accad8f641bc52988d#70f27afa1c6dda3d993371accad8f641bc52988d"
 dependencies = [
  "cfg-if",
  "core-foundation-sys",
